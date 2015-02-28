@@ -1,0 +1,2 @@
+# Glendene-cat-care-clinic
+This assignment is based on a case study on the Glendene Cat Care Clinic which is a business that provides veterinary services to cat owners. The company requires a front end application for their database which has already been developed.  You, the programmer, have to complete the work by writing an application, in the language C#, which will allow the users to maintain the records stored in the database and produce the report that they need.
